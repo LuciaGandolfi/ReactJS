@@ -1,0 +1,40 @@
+.CardItem {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+  }
+  
+  .Header {
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  
+  .ItemHeader {
+    margin: 0;
+  }
+  
+  .Itemimg {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 12px;
+  }
+  
+  .Info {
+    margin: 8px 0;
+  }
+  
+  .ItemFooter {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Option {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
